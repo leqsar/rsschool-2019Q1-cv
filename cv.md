@@ -1,48 +1,50 @@
 
-# Резюме Ивановой Александры
+# Ivanova Aleksandra
 
-## Контакты:
-- [Мой ВК](https://vk.com/id146633339 "ВК")
-- [Мой Инстаграм](https://www.instagram.com/lek_an_arteg/ "Inst")
-- Телефон +375447****32
+## Contacts:
+- [My VK](https://vk.com/id146633339 "VK")
+- [My Instagram](https://www.instagram.com/lek_an_arteg/ "Inst")
+- Сontact number +375447****32
+- [My GitHub](https://github.com/leqsar "GitHib")
 
-## Резюме:
+## Summary:
 
-- Цели:
-    - Расширить знания HTML, JavaScript и CSS
-    - Получить достаточное кол-во практики для уверенной  
-    верстки сайтов
-    - Пройти как можно больше собеседований и получить  
-    возможность попасть на проект в EPAM
+- Goals:
+    - Get more knowledge about HTML, JavaScript и CSS
+    - Get enough practice for
+     site layout
+    - Pass the interview and get the opportunity to start working in EPAM
 
-- Для достижения целей я:
-    - Выделяю приличное время каждый день для изучения  
-    теории
-    - Практикуюсь в использовании полученных знаний
-    - Просматриваю полезные ресурсы и Livecodding-сессии
+- To achieve goals I:
+    - Allocate a decent time every day to learn
+    - Practice every day
+    - Viewing useful resources and Livecodding sessions
 
-- Я точно знаю, что смогу достичь целей, так как я:
-    - Заинтересована в этой сфере
-    - Не ленива, когда дело касается того, что мне нравится
-    - Всегда готова саморазвиваться
-    -Целеустремленная
-## Умения:
+- I am sure that I can achieve my goals, because I:
+    - Interested in Front-End Development
+    - Ready to work hard, when it comes to what I like
+    - Purposeful
 
-- Основы С++
-- Основы Java
-- Основы HTML/CSS
-- Базы даннsх (SQL)
+## Skills:
 
-## Опыт:
-К сожалению, опыта в данной сфере получить пока не успела
+- С++ basics
+- Java basics
+- HTML/CSS basics
+- SQL
 
-## Образование:
+## Experience:
 
--В данный момент учусь в БГУИРе факультет ИТУ на   специальности ИТИУВТС
-- Курсы codeacademy:
+Unfortunately, I have not got any experience in this area
+
+## Education:
+
+- At this moment I am second-year   student of BSUIR (FITU)
+- Codeacademy:
     - HTML
     - CSS
     - SQL
-- Курсы БГУ по Java
+- Courses in Java
 
-## Уровень английского: B1
+## English level: B1
+
+(11 years in gymnasium + 1 year in the University)
