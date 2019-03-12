@@ -1,1 +1,1 @@
-https://leqsar.github.io/rsschool-2019Q1-cv/cv
+https://leqsar.github.io/rsschool-2019Q1-cv/
