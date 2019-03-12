@@ -362,3 +362,47 @@ li:hover a{
   background-color: #FF7F50;
   margin-left: 155.5px;
 }
+
+.footer_content {
+  display: flex;
+  width:1020px;
+  height:70px;
+  background-color: #808080;
+}
+
+.footer_text {
+  display: flex;
+  flex-direction: column;
+}
+
+.student {
+  display: flex;
+  font-size: 20px;
+  color:#D2691E;
+  margin:10px 0 0 25px;
+}
+
+.contact_links {
+  display: flex;
+}
+
+.links {
+  display: flex;
+  margin-left: 610px;
+}
+.links li {
+  margin: 8px 10px;
+}
+
+.fab {
+  color: #D2691E;
+  font-size: 20px;
+}
+
+.phone {
+  display: flex;
+  font-size: 20px;
+  color:#D2691E;
+  margin-top: 10px;
+  margin-left: 25px;
+}
