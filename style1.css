@@ -1,6 +1,188 @@
+a {
+  text-decoration:none;
+  color: #808080;
+}
+
+body {
+  margin:0 auto;
+  max-width: 1020px;
+}
+
 .upper {
   display: flex;
- width:920px;
- height:70px;
- background-color: #323232;
+}
+
+
+.black {
+  display: flex;
+  width:25px;
+  height:70px;
+  background-color: #808080;
+}
+
+.gray {
+  display: flex;
+  width:50px;
+  height:70px;
+  background-color: #C0C0C0;
+}
+
+.orange {
+  display: flex;
+  width:25px;
+  height:70px;
+  background-color: #FF7F50;
+}
+
+.header_text {
+  justify-content: center;
+  align-items: center;
+  font-family: Courier;
+  font-size: 40px;
+  color: #D2691E;
+  display: flex;
+  width:920px;
+  height:70px;
+  background-color: #C0C0C0;
+}
+
+.header_line {
+   display: flex;
+   border:1px;
+   border-style: dotted;
+   width: 316px;
+   height: 2px;
+   background-color: #D2691E;
+   margin: 34px 0;
+}
+
+.header_line1 {
+   display: flex;
+   border:1px;
+   border-style: dotted;
+   width: 266px;
+   height: 2px;
+   background-color: #D2691E;
+   margin-top: 34px;
+   margin-right:50px;
+}
+
+.main {
+  display: flex;
+}
+
+.navigation {
+  display: flex;
+  width:920px;
+  height:530px;
+  background-color: 	#C0C0C0;
+}
+
+.image {
+  display: flex;
+  width:480px;
+  height:480px;
+  margin-top: 20px;
+}
+
+.black_1 {
+  display: flex;
+  width:25px;
+  height:530px;
+  background-color: #808080;
+}
+
+.gray_1 {
+  display: flex;
+  width:50px;
+  height:530px;
+  background-color: 	#C0C0C0;
+}
+
+.orange_1 {
+  display: flex;
+  width:25px;
+  height:530px;
+  background-color: #FF7F50;
+}
+
+.black_2 {
+  display: flex;
+  width:15px;
+  height:460px;
+  background-color: #808080;
+  margin-top: 40px;
+}
+
+.list li {
+  display: flex;
+  margin: 60px 0;
+}
+
+.list {
+  margin-left: 30px;
+  font-size: 30px;
+  font-family: Courier;
+  color: #808080;
+}
+
+.check {
+  display: flex;
+  flex-direction: column;
+}
+
+.black_3 {
+  margin:0;
+  display: flex;
+  width:460px;
+  height:15px;
+  background-color: #808080;
+}
+
+.two {
+  display: flex;
+}
+
+li:hover a{
+  color:#D2691E;
+}
+
+.main_2 {
+  display: flex;
+  width:1020px;
+  height:750px;
+}
+
+.gray_2 {
+  display: flex;
+  width:50px;
+  height:750px;
+  background-color: 	#C0C0C0;
+}
+
+.orange_2 {
+  display: flex;
+  width:25px;
+  height:750px;
+  background-color: #FF7F50;
+}
+
+.black_4 {
+  display: flex;
+  width:25px;
+  height:750px;
+  background-color: #808080;
+}
+
+.summary {
+  display: flex;
+  width:920px;
+  height:750px;
+  background-color: #C0C0C0;
+
+}
+
+.list_of_goals {
+
+
 }
